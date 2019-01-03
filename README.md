@@ -16,7 +16,6 @@ Projeto desenvolvido com o único objetivo de controlar remotamente as ações d
 <br>
 <br>
 # Downloads
-Selecione uma opção de download a seguir:
 https://github.com/iagocolodetti/RemoteMouseClientRMI/releases
 * [RemoteMouseClient.apk](https://github.com/iagocolodetti/RemoteMouseClientRMI/releases/download/v1.0/RemoteMouseClient.apk "RemoteMouseClient.apk")
 * [Código-fonte](https://github.com/iagocolodetti/RemoteMouseClientRMI/archive/v1.0.zip "v1.0.zip")
