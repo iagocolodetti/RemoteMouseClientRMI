@@ -35,7 +35,9 @@ Ao ligar o servidor e obter um IP, utilize esse IP e porta para conectar-se ao s
 
 # Requisitos
 Versão: Android 4.1 (Jelly Bean)
+<br>
 Resolução: 1280x720 (HD)
+<br>
 O cliente (Android) deve estar conectado a mesma rede que o servidor (PC).
 <br>
 <br>
